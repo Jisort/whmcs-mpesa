@@ -22,7 +22,7 @@ Woza is available in:
 ### Prerequisites
 
 * Working WHMCS installation (v7.x or above)
-* Active [Jisort Mpay](https://my.jisort.com/mpay/).
+* Active [Jisort Mpay](https://my.jisort.com/mpay/) account.
 * PHP 5.6 or above
 
 ### Installation steps
