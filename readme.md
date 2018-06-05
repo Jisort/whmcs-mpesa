@@ -1,13 +1,13 @@
 # WHMCS Woza Payment Gateway
 
- - **Tags:** woza, whmcs, payment gateway, mpesa, kenya, international
+ - **Tags:** woza, whmcs mpesa, payment gateway, whmcs paybill, whmcs till number, mpesa, whmcs
  - **Stable tag:** 1.0.0
 
-Take payments using Woza.
+Receive M-Pesa payments directly into WHMCS using Woza.
 
 ## Description
 
-Accept M-Pesa payment directly to WHMCS with the Woza.
+Accept M-Pesa payment directly to WHMCS using Woza.
 
 #### Take M-Pesa payments easily and directly on WHMCS
 
