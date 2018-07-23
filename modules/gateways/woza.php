@@ -61,7 +61,7 @@ function woza_config() {
      )
     );
 
-	return $configarray;
+    return $configarray;
 
 }
 
@@ -154,6 +154,7 @@ function woza_link($params) {
         $url = $_SERVER['PHP_SELF'].'?id='.$params['invoiceid'];
         if ($params['shortcodetype'] == 'paybill') {
             $instructions = $message. "
+            <br><img src='http://www.truehost.co.ke/cloud/templates/ryanada/index.png' alt='mpesa' style='width:200px;'><br>
             <strong>Payment Instructions (".$params['shortcode'].")</strong>
                 1. Go to M-Pesa menu 
                 2. Click on Lipa na M-Pesa 
@@ -207,8 +208,8 @@ function woza_link($params) {
     foreach ($postfields as $k => $v) {
         $code .= '<input type="hidden" name="' . $k . '" value="' . urlencode($v) . '" />';
     }
-    $code .= '<input type="text" name="trans_id" placeholder="Mpesa Transaction Id" />';
-    $code .= '<input style={background-color: #4CAF50;} type="submit" value="' . $langPayNow . '" />';
+    $code .= '<input type="text" name="trans_id" placeholder="Mpesa Transaction Id" style="border-radius:10px;-moz-border-radius: 10px;padding:5px;"/>';
+    $code .= '<input style="color:green; border-radius:5px;-moz-border-radius: 5px;padding:5px; margin-left:10px; width: 200px;" type="submit" value="' . $langPayNow . '" />';
     $code .= '</form>';
 
     return $code;
