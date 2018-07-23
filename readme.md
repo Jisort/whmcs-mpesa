@@ -28,7 +28,7 @@ Woza is available in:
 ### Installation steps
 
 1. Download the [latest release](https://bitbucket.org/mwagiru/woza-whm) or clone the repository.
-2. Copy/upload the `modules` folder to the root of your `<whmcs dir>`.
+2. Extract and copy/upload the `modules` folder to the root of your `<whmcs dir>`.
 3. Go to the WHMCS admin area and go to `setup -> payments -> payment gateways`.
 4. Click the tab `All Payment Gateways`.
 5. Click `Woza` to activate the payment gateway.
