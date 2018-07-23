@@ -1,134 +1,218 @@
-<?php //00591
-// IONCUBE ENCODER 10.2 EVALUATION
-// THIS LICENSE MESSAGE IS ONLY ADDED BY THE EVALUATION ENCODER AND
-// IS NOT PRESENT IN PRODUCTION ENCODED FILES
+<?php
 
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
-?>
-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
+# Woza
+
+/**
+ * Define module related meta data.
+ *
+ * Values returned here are used to determine module related capabilities and
+ * settings.
+ *
+ * @see https://developers.whmcs.com/payment-gateways/meta-data-params/
+ *
+ * @return array
+ */
+function woza_MetaData()
+{
+    return array(
+        'DisplayName' => 'Woza',
+        'APIVersion' => '1.1', // Use API Version 1.1
+        'DisableLocalCreditCardInput' => true,
+        'TokenisedStorage' => false,
+    );
+}
+
+function woza_config() {
+
+    $configarray = array(
+     "FriendlyName" => array(
+        "Type" => "System",
+        "Value" => "Woza"
+        ),
+     'shortcodetype' => array(
+            'FriendlyName' => 'Short Code Type',
+            'Type' => 'dropdown',
+            'Options' => array(
+                'paybill' => 'Pay Bill',
+                'tillnumber' => 'Till Number',
+            ),
+            'Description' => 'Select Your Short Code Type',
+        ),
+     'shortcode' => array(
+            'FriendlyName' => 'Short Code',
+            'Type' => 'text',
+            'Size' => '25',
+            'Default' => '',
+            'Description' => 'Enter your short code here',
+        ),
+     'clientkey' => array(
+            'FriendlyName' => 'Client Key',
+            'Type' => 'text',
+            'Size' => '25',
+            'Default' => '',
+            'Description' => 'Enter your key here',
+     ),
+     'clientsecret' => array(
+            'FriendlyName' => 'Client Secret',
+            'Type' => 'text',
+            'Size' => '30',
+            'Default' => '',
+            'Description' => 'Enter your secret here',
+     )
+    );
+
+	return $configarray;
+
+}
+
+function woza_link($params) {
+    $message = "";
+    $paymentmade = false;
+
+    if (isset($_POST)){
+        if ( $_POST['invoice_id'] != '' && $_POST['send_url'] != "") {
+            if ($_POST['send_url'] == 'paybill') {
+                $send_url = 'https://my.jisort.com/paymentsApi/validate/?business_no='.$_POST['shortcode'].'&trans_id='.$_POST['trans_id'];
+            } else {
+                $send_url = 'https://my.jisort.com:9382/general_ledger/transactions_ledger/?business_no='.$_POST['shortcode'].'&trans_id='.$_POST['trans_id'];
+            }
+
+            $url = $send_url;
+            $ch = curl_init(); 
+            curl_setopt($ch, CURLOPT_URL, $url); 
+            curl_setopt( $ch, CURLOPT_RETURNTRANSFER, true);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+            curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+            $result = curl_exec($ch); 
+            $httpCode = curl_getinfo($ch, CURLINFO_HTTP_CODE); 
+            curl_close($ch);  
+
+            if ($httpcode == '500') {
+                $message = "<strong style='color:red;'>An error has occurred. Kindly try again later.</strong>";
+            } elseif ($httpCode != '200') {
+                $message = "<strong style='color:red;'>".str_replace('["', '', str_replace('"]', '', $result))."</strong>";
+            } else {   
+
+                $json = json_decode($result, true);     
+
+                addInvoicePayment(
+                    $_POST['invoice_id'],
+                    $json['transaction_reference'],
+                    $json['debit'],
+                    '0',
+                    $_POST['moduleName']
+                );
+                
+                header("Refresh:0");
+            }
+            $res = $message;
+       }
+    }
+
+    global $_LANG;
+
+    // Gateway Configuration Parameters
+    $accountId = $params['accountID'];
+    $secretKey = $params['secretKey'];
+    $testMode = $params['testMode'];
+    $dropdownField = $params['dropdownField'];
+    $radioField = $params['radioField'];
+    $textareaField = $params['textareaField'];
+
+    // Invoice Parameters
+    $invoiceId = $params['invoiceid'];
+    $description = $params["description"];
+    $amount = $params['amount'];
+    $currencyCode = $params['currency'];
+
+    // Client Parameters
+    $firstname = $params['clientdetails']['firstname'];
+    $lastname = $params['clientdetails']['lastname'];
+    $email = $params['clientdetails']['email'];
+    $address1 = $params['clientdetails']['address1'];
+    $address2 = $params['clientdetails']['address2'];
+    $city = $params['clientdetails']['city'];
+    $state = $params['clientdetails']['state'];
+    $postcode = $params['clientdetails']['postcode'];
+    $country = $params['clientdetails']['country'];
+    $phone = $params['clientdetails']['phonenumber'];
+
+    // System Parameters
+    $companyName = $params['companyname'];
+    $systemUrl = $params['systemurl'];
+    $returnUrl = $params['returnurl'];
+    $langPayNow = $params['langpaynow'];
+    $moduleDisplayName = $params['name'];
+    $moduleName = $params['paymentmethod'];
+    $whmcsVersion = $params['whmcsVersion'];
+
+    $url = "viewinvoice.php?id=".$params['invoiceid'];
+    $send_url = '';
+
+    if (strpos($_SERVER['PHP_SELF'], 'viewinvoice') !== false) {
+        $send_url = $params['shortcodetype'];
+        $url = $_SERVER['PHP_SELF'].'?id='.$params['invoiceid'];
+        if ($params['shortcodetype'] == 'paybill') {
+            $instructions = $message. "
+            <strong>Payment Instructions (".$params['shortcode'].")</strong>
+                1. Go to M-Pesa menu 
+                2. Click on Lipa na M-Pesa 
+                3. Click on Paybill
+                4. Enter business no <strong>".$params['invoiceid']."</strong>
+                4. Enter paybill no <strong>".$params['shortcode']."</strong>
+                5. Enter amount <strong>".$amount.' '.$currencyCode."</strong>
+                6. Wait for the M-Pesa message
+                7. Click Pay Now.";
+
+        } else {
+            $instructions =  $message."
+            <strong>Payment Instructions (".$params['shortcode'].")</strong>
+                1. Go to M-Pesa menu 
+                2. Click on Lipa na M-Pesa 
+                3. Click on Buy Goods and Services 
+                4. Enter till no <strong>".$params['shortcode']."</strong>
+                5. Enter amount <strong>".$amount.' '.$currencyCode."</strong>
+                6. Wait for the M-Pesa message
+                7. Click Pay Now.";
+        }
+    }
+
+    $postfields = array();
+    $postfields['username'] = $username;
+    $postfields['invoice_id'] = $invoiceId;
+    $postfields['shortcode'] = $params['shortcode'];
+    $postfields['description'] = $description;
+    $postfields['amount'] = $amount;
+    $postfields['currency'] = $currencyCode;
+    $postfields['first_name'] = $firstname;
+    $postfields['last_name'] = $lastname;
+    $postfields['email'] = $email;
+    $postfields['address1'] = $address1;
+    $postfields['address2'] = $address2;
+    $postfields['city'] = $city;
+    $postfields['state'] = $state;
+    $postfields['postcode'] = $postcode;
+    $postfields['country'] = $country;
+    $postfields['phone'] = $phone;
+    $postfields['send_url'] = $send_url;
+    $postfields['moduleName'] = $moduleName;
+    $postfields['trans_id'] = $params['trans_id'];
+    $postfields['clientsecret'] = $params['clientsecret'];
+    $postfields['clientkey'] = $params['clientkey'];
+
+    $code = '<p>'.nl2br($instructions).'<br />'.$_LANG['invoicerefnum'].': '.$params['invoiceid'].
+        '<br /></p>';
+
+    $code .= '<form method="post" action="' . $url . '">';
+    foreach ($postfields as $k => $v) {
+        $code .= '<input type="hidden" name="' . $k . '" value="' . urlencode($v) . '" />';
+    }
+    $code .= '<input type="text" name="trans_id" placeholder="Mpesa Transaction Id" />';
+    $code .= '<input style={background-color: #4CAF50;} type="submit" value="' . $langPayNow . '" />';
+    $code .= '</form>';
+
+    return $code;
+
+}
+
+?> 
