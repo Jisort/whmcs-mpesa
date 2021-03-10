@@ -11,7 +11,7 @@ Accept M-Pesa payment directly to WHMCS using Woza.
 
 #### Take M-Pesa payments easily and directly on WHMCS
 
-Signup for an account [here](http://www.jisort.com/jisort-microfinance-system-pricing/)
+Signup for an account [here](https://my.jisort.com/signUp)
 
 Woza is available in:
 
@@ -22,12 +22,12 @@ Woza is available in:
 ### Prerequisites
 
 * Working WHMCS installation (v5.x or above)
-* Active [Jisort Mpay](https://my.jisort.com/mpay/) account.
+* Add your Paybill/Till number [here](https://my.jisort.com/mpay/addPaybill/).
 * PHP 5.6 or above
 
 ### Installation steps
 
-1. Download the [latest release](https://bitbucket.org/mwagiru/woza-whm) or clone the repository.
+1. Download the [latest release](https://github.com/Jisort/whmcs-mpesa/archive/master.zip) or clone the repository.
 2. Extract and copy/upload the `modules` folder to the root of your `<whmcs dir>`.
 3. Go to the WHMCS admin area and go to `setup -> payments -> payment gateways`.
 4. Click the tab `All Payment Gateways`.
