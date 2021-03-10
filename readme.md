@@ -22,7 +22,8 @@ Woza is available in:
 ### Prerequisites
 
 * Working WHMCS installation (v5.x or above)
-* Add your Paybill/Till number [here](https://my.jisort.com/mpay/addPaybill/).
+* An active application on M-Pesa Daraja portal. Follow the guide [here](https://developer.safaricom.co.ke/docs#step-by-step-go-live-guide)
+* Add your Paybill/Till number [here](https://my.jisort.com/mpay/addPaybill/)
 * PHP 5.6 or above
 
 ### Installation steps
